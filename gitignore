@@ -1,0 +1,36 @@
+# ── Python ──────────────────────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# ── Jupyter / IPython ───────────────────────────────────────────────────
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# ── Virtual environments ─────────────────────────────────────────────────
+venv/
+.venv/
+env/
+.env/
+
+# ── Dataset files (too large for GitHub — download from Kaggle) ──────────
+*.csv
+*.tsv
+data/
+
+# ── OS / editor artifacts ────────────────────────────────────────────────
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# ── Secrets & credentials ────────────────────────────────────────────────
+.env
+*.key
+secrets.json
