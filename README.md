@@ -186,10 +186,10 @@ All plots are saved in the `visualizations/` folder. Key visuals include:
 
 ## Author
 
-**Nancy**
-Business Analytics Program
-Boston University — Sargent College
+**Nancy N. Shumba**
+Predictive Analytics and Machine Learning
+Suffolk University - Ms in Marketing
 
 ---
 
-*This project was completed as a term project for a Business Analytics course. Dataset sourced from Kaggle under open license.*
+*This project was completed as a term project for a Machine Learning course. Dataset sourced from Kaggle under open license.*
